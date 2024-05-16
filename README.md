@@ -3,8 +3,7 @@
 
 >Esto deberìa de ser una cita
 
->[!nota]
->Nota: Esto debería de ser una nota, probando distintos tipos de texto dentro de una nota
+>[!nota] Nota: Esto debería de ser una nota, probando distintos tipos de texto dentro de una nota
 
 ### Esto deberia de ser un titulo nivel 3
 
