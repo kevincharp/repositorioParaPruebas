@@ -1,4 +1,4 @@
->["!tip]
+>[!tip]
 >Esto es un tip en GitHub
 
 >Esto deberìa de ser una cita
